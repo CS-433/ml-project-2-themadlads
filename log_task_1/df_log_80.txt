@@ -1,0 +1,80 @@
+epoch              0.61000
+learning_rate      0.00005
+loss               1.18000
+step             500.00000
+Name: 0, dtype: float64
+epoch               1.230000
+learning_rate       0.000047
+loss                0.812000
+step             1000.000000
+Name: 1, dtype: float64
+epoch               1.840000
+learning_rate       0.000043
+loss                0.857000
+step             1500.000000
+Name: 3, dtype: float64
+epoch               2.46000
+learning_rate       0.00004
+loss                0.87310
+step             2000.00000
+Name: 4, dtype: float64
+epoch               3.070000
+learning_rate       0.000037
+loss                0.911800
+step             2500.000000
+Name: 6, dtype: float64
+epoch               3.690000
+learning_rate       0.000034
+loss                0.918900
+step             3000.000000
+Name: 7, dtype: float64
+epoch               4.30000
+learning_rate       0.00003
+loss                0.95890
+step             3500.00000
+Name: 9, dtype: float64
+epoch               4.910000
+learning_rate       0.000027
+loss                1.005100
+step             4000.000000
+Name: 10, dtype: float64
+epoch               5.530000
+learning_rate       0.000024
+loss                1.026800
+step             4500.000000
+Name: 12, dtype: float64
+epoch               6.140000
+learning_rate       0.000021
+loss                1.091700
+step             5000.000000
+Name: 13, dtype: float64
+epoch               6.760000
+learning_rate       0.000017
+loss                1.130300
+step             5500.000000
+Name: 15, dtype: float64
+epoch               7.370000
+learning_rate       0.000014
+loss                1.181400
+step             6000.000000
+Name: 16, dtype: float64
+epoch               7.990000
+learning_rate       0.000011
+loss                1.250700
+step             6500.000000
+Name: 18, dtype: float64
+epoch               8.600000
+learning_rate       0.000007
+loss                1.287800
+step             7000.000000
+Name: 19, dtype: float64
+epoch               9.210000
+learning_rate       0.000004
+loss                1.363300
+step             7500.000000
+Name: 21, dtype: float64
+epoch            9.830000e+00
+learning_rate    9.162304e-07
+loss             1.423400e+00
+step             8.000000e+03
+Name: 22, dtype: float64
